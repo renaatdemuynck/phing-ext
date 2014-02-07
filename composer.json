@@ -1,0 +1,12 @@
+{
+    "name": "renaatdemuynck/phing-ext-yuicompressorfilter",
+    "authors": [
+        {
+            "name": "Renaat De Muynck",
+            "email": "renaat.demuynck@gmail.com"
+        }
+    ],
+    "require": {
+
+    }
+}
